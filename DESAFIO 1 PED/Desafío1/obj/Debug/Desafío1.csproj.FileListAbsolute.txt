@@ -1,0 +1,44 @@
+C:\Users\leonl\Desktop\CiclolV\Programación con estructuras de datos\TareasResueltas\Unidad 2\Desafío1 Alex Zetino\Desafío1 Alex Zetino\obj\Debug\Desafío1.csproj.AssemblyReference.cache
+C:\Users\leonl\Desktop\CiclolV\Programación con estructuras de datos\TareasResueltas\Unidad 2\Desafío1 Alex Zetino\Desafío1 Alex Zetino\obj\Debug\Desafío1.Archivo.resources
+C:\Users\leonl\Desktop\CiclolV\Programación con estructuras de datos\TareasResueltas\Unidad 2\Desafío1 Alex Zetino\Desafío1 Alex Zetino\obj\Debug\Desafío1.LogIN.resources
+C:\Users\leonl\Desktop\CiclolV\Programación con estructuras de datos\TareasResueltas\Unidad 2\Desafío1 Alex Zetino\Desafío1 Alex Zetino\obj\Debug\Desafío1.csproj.GenerateResource.cache
+C:\Users\leonl\Desktop\CiclolV\Programación con estructuras de datos\TareasResueltas\Unidad 2\Desafío1 Alex Zetino\Desafío1 Alex Zetino\obj\Debug\Desafío1.csproj.CoreCompileInputs.cache
+C:\Users\leonl\Desktop\CiclolV\Programación con estructuras de datos\TareasResueltas\Unidad 2\Desafío1 Alex Zetino\Desafío1 Alex Zetino\bin\Debug\Desafío1.exe.config
+C:\Users\leonl\Desktop\CiclolV\Programación con estructuras de datos\TareasResueltas\Unidad 2\Desafío1 Alex Zetino\Desafío1 Alex Zetino\bin\Debug\Desafío1.exe
+C:\Users\leonl\Desktop\CiclolV\Programación con estructuras de datos\TareasResueltas\Unidad 2\Desafío1 Alex Zetino\Desafío1 Alex Zetino\bin\Debug\Desafío1.pdb
+C:\Users\leonl\Desktop\CiclolV\Programación con estructuras de datos\TareasResueltas\Unidad 2\Desafío1 Alex Zetino\Desafío1 Alex Zetino\obj\Debug\Desafío1.Properties.Resources.resources
+C:\Users\leonl\Desktop\CiclolV\Programación con estructuras de datos\TareasResueltas\Unidad 2\Desafío1 Alex Zetino\Desafío1 Alex Zetino\obj\Debug\Desafío1.exe
+C:\Users\leonl\Desktop\CiclolV\Programación con estructuras de datos\TareasResueltas\Unidad 2\Desafío1 Alex Zetino\Desafío1 Alex Zetino\obj\Debug\Desafío1.pdb
+C:\Users\leonl\Desktop\Desafio 1\Desafío1\bin\Debug\Desafío1.exe.config
+C:\Users\leonl\Desktop\Desafio 1\Desafío1\bin\Debug\Desafío1.exe
+C:\Users\leonl\Desktop\Desafio 1\Desafío1\bin\Debug\Desafío1.pdb
+C:\Users\leonl\Desktop\Desafio 1\Desafío1\obj\Debug\Desafío1.csproj.AssemblyReference.cache
+C:\Users\leonl\Desktop\Desafio 1\Desafío1\obj\Debug\Desafío1.Archivo.resources
+C:\Users\leonl\Desktop\Desafio 1\Desafío1\obj\Debug\Desafío1.LogIN.resources
+C:\Users\leonl\Desktop\Desafio 1\Desafío1\obj\Debug\Desafío1.Properties.Resources.resources
+C:\Users\leonl\Desktop\Desafio 1\Desafío1\obj\Debug\Desafío1.csproj.GenerateResource.cache
+C:\Users\leonl\Desktop\Desafio 1\Desafío1\obj\Debug\Desafío1.csproj.CoreCompileInputs.cache
+C:\Users\leonl\Desktop\Desafio 1\Desafío1\obj\Debug\Desafío1.exe
+C:\Users\leonl\Desktop\Desafio 1\Desafío1\obj\Debug\Desafío1.pdb
+C:\Users\corci\Downloads\PED-DesafioPractico1-main\PED-DesafioPractico1-main\Desafío1\bin\Debug\Desafío1.exe.config
+C:\Users\corci\Downloads\PED-DesafioPractico1-main\PED-DesafioPractico1-main\Desafío1\bin\Debug\Desafío1.exe
+C:\Users\corci\Downloads\PED-DesafioPractico1-main\PED-DesafioPractico1-main\Desafío1\bin\Debug\Desafío1.pdb
+C:\Users\corci\Downloads\PED-DesafioPractico1-main\PED-DesafioPractico1-main\Desafío1\obj\Debug\Desafío1.csproj.AssemblyReference.cache
+C:\Users\corci\Downloads\PED-DesafioPractico1-main\PED-DesafioPractico1-main\Desafío1\obj\Debug\Desafío1.Archivo.resources
+C:\Users\corci\Downloads\PED-DesafioPractico1-main\PED-DesafioPractico1-main\Desafío1\obj\Debug\Desafío1.LogIN.resources
+C:\Users\corci\Downloads\PED-DesafioPractico1-main\PED-DesafioPractico1-main\Desafío1\obj\Debug\Desafío1.Properties.Resources.resources
+C:\Users\corci\Downloads\PED-DesafioPractico1-main\PED-DesafioPractico1-main\Desafío1\obj\Debug\Desafío1.csproj.GenerateResource.cache
+C:\Users\corci\Downloads\PED-DesafioPractico1-main\PED-DesafioPractico1-main\Desafío1\obj\Debug\Desafío1.csproj.CoreCompileInputs.cache
+C:\Users\corci\Downloads\PED-DesafioPractico1-main\PED-DesafioPractico1-main\Desafío1\obj\Debug\Desafío1.exe
+C:\Users\corci\Downloads\PED-DesafioPractico1-main\PED-DesafioPractico1-main\Desafío1\obj\Debug\Desafío1.pdb
+C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\bin\Debug\Desafío1.exe.config
+C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\bin\Debug\Desafío1.exe
+C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\bin\Debug\Desafío1.pdb
+C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.csproj.AssemblyReference.cache
+C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.Archivo.resources
+C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.LogIN.resources
+C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.Properties.Resources.resources
+C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.csproj.GenerateResource.cache
+C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.csproj.CoreCompileInputs.cache
+C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.exe
+C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.pdb
