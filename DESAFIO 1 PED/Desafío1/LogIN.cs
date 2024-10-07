@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -17,32 +18,83 @@ namespace Desafío1
         public LogIN()
         {
             InitializeComponent();
+
+            SqlConnection conexion = new SqlConnection("Data Source=DESKTOP-CEE9SSS\\SQLEXPRESS01;Initial Catalog=pacienteDB;Integrated Security=True");
+
+            try
+            {
+                conexion.Open();
+                MessageBox.Show("Conexión a la base de datos establecida.");
+                conexion.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al conectar a la base de datos: " + ex.Message);
+            }
+
+
+
+
+
+
         }
 
         private void ingresar_Click(object sender, EventArgs e)
         {
-            if ((textBox1.Text != "") && (textBox2.Text != ""))
+            // Obtener los datos del usuario
+            string username = txtUsuario.Text;
+            string password = txtContraseña.Text;
+
+            // Validar los datos (opcional)
+            if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
             {
+                MessageBox.Show("Por favor, ingrese su nombre de usuario y contraseña.");
+                return;
+            }
 
-                if ((textBox1.Text == "jose") && (textBox2.Text == "jose"))
+
+            SqlConnection conexion = new SqlConnection("Data Source=DESKTOP-CEE9SSS\\SQLEXPRESS01;Initial Catalog=pacienteDB;Integrated Security=True");
+
+
+
+            try
+            {
+                conexion.Open();
+
+                // Consulta SQL con parámetros 
+                string consulta = "SELECT * FROM Usuarios WHERE NombreUsuario = @username AND Contrasena = @password";
+                SqlCommand command = new SqlCommand(consulta, conexion);
+                command.Parameters.AddWithValue("@username", username);
+                command.Parameters.AddWithValue("@password", password);
+
+                SqlDataReader reader = command.ExecuteReader();
+
+
+                if (reader.HasRows)
+
                 {
-
-                    MessageBox.Show("BIENVENIDO/A");
+                    MessageBox.Show("Inicio de sesión exitoso.");
+                    // Redirigir a otro formulario
                     Ingresar = new Archivo();
                     Ingresar.Show();
                     this.Hide();
-
                 }
                 else
                 {
-                    MessageBox.Show("Datos erroneos");
+                    MessageBox.Show("Nombre de usuario o contraseña incorrectos.");
                 }
 
+                reader.Close();
             }
-            else
+            catch (Exception ex)
             {
-                MessageBox.Show("Falta datos");
+                MessageBox.Show("Error al conectar a la base de datos: " + ex.Message);
             }
+            finally
+            {
+                conexion.Close();
+            }
+
 
         }
 

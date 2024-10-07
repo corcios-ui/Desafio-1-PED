@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ignacio\\Documents\\GitHub\\Desafio-1-PED\\DESAFIO 1 PED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D37B80AD-56F5-491E-8FA8-267586521338}|Desaf\u00EDo1\\Desaf\u00EDo1.csproj|c:\\users\\ignacio\\documents\\github\\desafio-1-ped\\desafio 1 ped\\desaf\u00EDo1\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37B80AD-56F5-491E-8FA8-267586521338}|Desaf\u00EDo1\\Desaf\u00EDo1.csproj|solutionrelative:desaf\u00EDo1\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37B80AD-56F5-491E-8FA8-267586521338}|Desaf\u00EDo1\\Desaf\u00EDo1.csproj|c:\\users\\ignacio\\documents\\github\\desafio-1-ped\\desafio 1 ped\\desaf\u00EDo1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37B80AD-56F5-491E-8FA8-267586521338}|Desaf\u00EDo1\\Desaf\u00EDo1.csproj|solutionrelative:desaf\u00EDo1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37B80AD-56F5-491E-8FA8-267586521338}|Desaf\u00EDo1\\Desaf\u00EDo1.csproj|c:\\users\\ignacio\\documents\\github\\desafio-1-ped\\desafio 1 ped\\desaf\u00EDo1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D37B80AD-56F5-491E-8FA8-267586521338}|Desaf\u00EDo1\\Desaf\u00EDo1.csproj|solutionrelative:desaf\u00EDo1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37B80AD-56F5-491E-8FA8-267586521338}|Desaf\u00EDo1\\Desaf\u00EDo1.csproj|c:\\users\\ignacio\\documents\\github\\desafio-1-ped\\desafio 1 ped\\desaf\u00EDo1\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D37B80AD-56F5-491E-8FA8-267586521338}|Desaf\u00EDo1\\Desaf\u00EDo1.csproj|solutionrelative:desaf\u00EDo1\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37B80AD-56F5-491E-8FA8-267586521338}|Desaf\u00EDo1\\Desaf\u00EDo1.csproj|c:\\users\\ignacio\\documents\\github\\desafio-1-ped\\desafio 1 ped\\desaf\u00EDo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37B80AD-56F5-491E-8FA8-267586521338}|Desaf\u00EDo1\\Desaf\u00EDo1.csproj|solutionrelative:desaf\u00EDo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Archivo.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\GitHub\\Desafio-1-PED\\DESAFIO 1 PED\\Desaf\u00EDo1\\Archivo.cs",
+              "RelativeDocumentMoniker": "Desaf\u00EDo1\\Archivo.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\GitHub\\Desafio-1-PED\\DESAFIO 1 PED\\Desaf\u00EDo1\\Archivo.cs",
+              "RelativeToolTip": "Desaf\u00EDo1\\Archivo.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAqwDUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:48:30.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\GitHub\\Desafio-1-PED\\DESAFIO 1 PED\\Desaf\u00EDo1\\Program.cs",
+              "RelativeDocumentMoniker": "Desaf\u00EDo1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\GitHub\\Desafio-1-PED\\DESAFIO 1 PED\\Desaf\u00EDo1\\Program.cs",
+              "RelativeToolTip": "Desaf\u00EDo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:36:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIN.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\GitHub\\Desafio-1-PED\\DESAFIO 1 PED\\Desaf\u00EDo1\\LogIN.cs",
+              "RelativeDocumentMoniker": "Desaf\u00EDo1\\LogIN.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\GitHub\\Desafio-1-PED\\DESAFIO 1 PED\\Desaf\u00EDo1\\LogIN.cs",
+              "RelativeToolTip": "Desaf\u00EDo1\\LogIN.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:23:24.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogIN.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\GitHub\\Desafio-1-PED\\DESAFIO 1 PED\\Desaf\u00EDo1\\LogIN.cs",
+              "RelativeDocumentMoniker": "Desaf\u00EDo1\\LogIN.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\GitHub\\Desafio-1-PED\\DESAFIO 1 PED\\Desaf\u00EDo1\\LogIN.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Desaf\u00EDo1\\LogIN.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:23:21.513Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Archivo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\GitHub\\Desafio-1-PED\\DESAFIO 1 PED\\Desaf\u00EDo1\\Archivo.cs",
+              "RelativeDocumentMoniker": "Desaf\u00EDo1\\Archivo.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\GitHub\\Desafio-1-PED\\DESAFIO 1 PED\\Desaf\u00EDo1\\Archivo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Desaf\u00EDo1\\Archivo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:23:19.536Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

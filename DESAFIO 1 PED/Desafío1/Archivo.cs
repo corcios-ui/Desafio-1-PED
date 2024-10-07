@@ -51,24 +51,7 @@ namespace Desafío1
                 MessageBox.Show("¡Debe completar todos los datos!");
             }
 
-            else
-            {
-
-                MessageBox.Show("¡Registrado con exito!");
-                //limpiar();
-
-
-
-                
-                Nodo r;
-
-
-                
-                r = arbol.MostrarArbol(nPaciente.Text, Sangre.Text, pGenero.Text, npresion.Text);
-                arbol.TransversaPreO(r);
-
-
-            }
+           
         }
 
         private void btnBuscar_Click(object sender, EventArgs e)

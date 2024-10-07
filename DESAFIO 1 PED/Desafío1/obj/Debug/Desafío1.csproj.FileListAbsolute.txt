@@ -42,3 +42,14 @@ C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\De
 C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.csproj.CoreCompileInputs.cache
 C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.exe
 C:\Users\corci\OneDrive\Escritorio\ciclo 2 2024\PROGRAMACION C#\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.pdb
+C:\Users\Ignacio\Documents\GitHub\Desafio-1-PED\DESAFIO 1 PED\Desafío1\bin\Debug\Desafío1.exe.config
+C:\Users\Ignacio\Documents\GitHub\Desafio-1-PED\DESAFIO 1 PED\Desafío1\bin\Debug\Desafío1.exe
+C:\Users\Ignacio\Documents\GitHub\Desafio-1-PED\DESAFIO 1 PED\Desafío1\bin\Debug\Desafío1.pdb
+C:\Users\Ignacio\Documents\GitHub\Desafio-1-PED\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Documents\GitHub\Desafio-1-PED\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.Archivo.resources
+C:\Users\Ignacio\Documents\GitHub\Desafio-1-PED\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.LogIN.resources
+C:\Users\Ignacio\Documents\GitHub\Desafio-1-PED\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.Properties.Resources.resources
+C:\Users\Ignacio\Documents\GitHub\Desafio-1-PED\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.csproj.GenerateResource.cache
+C:\Users\Ignacio\Documents\GitHub\Desafio-1-PED\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Documents\GitHub\Desafio-1-PED\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.exe
+C:\Users\Ignacio\Documents\GitHub\Desafio-1-PED\DESAFIO 1 PED\Desafío1\obj\Debug\Desafío1.pdb
